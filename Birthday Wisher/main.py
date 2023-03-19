@@ -1,7 +1,6 @@
 # import smtplib
 #
-# my_email = 'mukhammad.mamleev@mail.ru'
-# my_password = 'rn5JHnEwmEQhCFTPi6F2'
+
 #
 # with smtplib.SMTP('smtp.mail.ru') as connection:
 #     connection.starttls()
@@ -33,8 +32,8 @@ import smtplib
 import datetime as dt
 from random import choice
 
-MY_EMAIL = 'mukhammad.mamleev@mail.ru'
-MY_PASSWORD = 'rn5JHnEwmEQhCFTPi6F2'
+MY_EMAIL = 'day32.0001@gmail.com'
+MY_PASSWORD = 'wgnavynehmlbghzu'
 
 
 now = dt.datetime.now()
